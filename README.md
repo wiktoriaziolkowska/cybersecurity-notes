@@ -1,8 +1,8 @@
 # Cybersecurity Notes
 
 ## TryHackMe
-- Pre Security: ukończone
-- Networking basics: w trakcie
+- Pre Security
+- Networking basics
 
 ## Co się uczę:
 - TCP/IP
